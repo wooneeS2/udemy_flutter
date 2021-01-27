@@ -13,13 +13,13 @@ void main(){
           title:
           Text(
             'I am poor',
-         style: TextStyle(
-             color:Colors.white,
-         ),
+            style: TextStyle(
+              color:Colors.white,
+            ),
             textAlign:TextAlign.center,
-        ),
+          ),
           backgroundColor:Colors.red,
-    ),
+        ),
         body:Center(
           child:Image(
             image:AssetImage('images/poor.jpg'),

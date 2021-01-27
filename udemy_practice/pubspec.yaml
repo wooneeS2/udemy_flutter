@@ -24,13 +24,10 @@ dev_dependencies:
 
 
 flutter:
-
-
   uses-material-design: true
-
-
-assets:
-  - images/diamond.jpg
+  assets:
+    - images/diamond.jpg
+    - images/poor.jpg
 
   #
   # fonts:

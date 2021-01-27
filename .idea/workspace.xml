@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="79c0843a-7ef7-4230-9d34-258266f38d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/udemy_practice/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/udemy_practice/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/lib/practice/3_homework.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/lib/practice/3_iamrich.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy_practice/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/udemy_practice/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy_practice/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/udemy_practice/pubspec.yaml" afterDir="false" />
     </list>
@@ -10,6 +30,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,7 +52,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="D:/src/flutter/bin" />
+    <property name="last_opened_file_path" value="D:/src/flutter/bin/cache/dart-sdk" />
     <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -52,38 +79,61 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611749108066">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611752272860">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1611749108066" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1611752272860" />
+    <state x="516" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611756099368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1611756099368" />
     <state x="498" y="201" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1611748977305">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="201" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1611748977305" />
-    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1611749047776">
+    <state x="93" y="93" width="1350" height="638" key="AVDManager" timestamp="1611755234518">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611749047776" />
-    <state width="1491" height="210" key="GridCell.Tab.0.bottom" timestamp="1611751930361">
+    <state x="93" y="93" width="1350" height="638" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1611755234518" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1611752326022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611751930361" />
-    <state width="1491" height="210" key="GridCell.Tab.0.center" timestamp="1611751930361">
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611752326022" />
+    <state width="1491" height="207" key="GridCell.Tab.0.bottom" timestamp="1611757230382">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611751930361" />
-    <state width="1491" height="210" key="GridCell.Tab.0.left" timestamp="1611751930360">
+    <state width="1491" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611757230382" />
+    <state width="1491" height="207" key="GridCell.Tab.0.center" timestamp="1611757230381">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611751930360" />
-    <state width="1491" height="210" key="GridCell.Tab.0.right" timestamp="1611751930361">
+    <state width="1491" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611757230381" />
+    <state width="1491" height="207" key="GridCell.Tab.0.left" timestamp="1611757230381">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611751930361" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1611749076457">
+    <state width="1491" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611757230381" />
+    <state width="1491" height="207" key="GridCell.Tab.0.right" timestamp="1611757230382">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611749076457" />
+    <state width="1491" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611757230382" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1611752329146">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611752329146" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1611752301567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1611752301567" />
   </component>
 </project>
